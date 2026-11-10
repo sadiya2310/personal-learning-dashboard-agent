@@ -1,0 +1,5 @@
+name: "personal-learning-dashboard-agent"
+title: "Personal Learning Dashboard Agent"
+description: "Builds and runs a private, field-neutral personal learning dashboard for one user: one verified article at a time with summary, example, quiz and exercise, topic-organised notes with Proof article links, Explain This, and their own topics and settings."
+category: "Work and knowledge"
+include_in_prompt: false
